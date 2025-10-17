@@ -9,7 +9,7 @@ This repository contains the front-end project for the JavaScript 2 CA assignmen
 1. **Clone the repo and install dependencies**
 
 ```bash
-git clone <your-fork-url>
+git clone https://github.com/AndersenIA/workflow-repo-ca/tree/workflow
 cd workflow-repo-ca
 npm install
 ```
@@ -35,11 +35,12 @@ This starts a local server at http://127.0.0.1:3000.
 ## Scripts
 
 Script Description
-npm run dev --------------- Starts the development server
-npm run lint -------------- Runs ESLint on all JS files
-npm run format ------------ Formats JS files with Prettier
-npm run test -------------- Runs unit tests using Vitest
-npm run test:e2e ---------- Runs end-to-end tests using Playwright
+
+- npm run dev --------------- Starts the development server
+- npm run lint -------------- Runs ESLint on all JS files
+- npm run format ------------ Formats JS files with Prettier
+- npm run test -------------- Runs unit tests using Vitest
+- npm run test:e2e ---------- Runs end-to-end tests using Playwright
 
 ## Testing
 
